@@ -1,10 +1,3 @@
-// SETTING UP VARIABLE
-var thumbnail_mode = &quot;yes&quot;;
-summary_noimg = 300;
-summary_img = 300; 
-img_thumb_height = 150; 
-img_thumb_width = 150;
-// STARTING
 function removeHtmlTag(strx,chop){
 if(strx.indexOf("<")!=-1) 
 {
